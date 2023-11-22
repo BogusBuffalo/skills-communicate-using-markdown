@@ -6,6 +6,6 @@
 
 `System.out.println("this is a code example")`
 
-- [x] Task that got done
-
-- [ ] Task that is not done
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
